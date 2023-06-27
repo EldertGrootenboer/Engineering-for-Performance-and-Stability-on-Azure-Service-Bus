@@ -396,3 +396,5 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+assets/code/demo-prep.local.ps1
+assets/code/demo.local.ps1
